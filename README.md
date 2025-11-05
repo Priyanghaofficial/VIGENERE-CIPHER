@@ -74,7 +74,7 @@ void vigenereDecrypt(char *text, const char *key) {
 }
 int main() {
     const char *key = "VAR"; 
-    char message[] = "I am Vincy from Chennai";
+    char message[] = "I am PRIYANGHA";
     printf("Simulating Vigenere Cipher:\n");
     // Print the original plain text
     printf("Original Message: %s\n", message);
@@ -90,7 +90,8 @@ int main() {
 }
 ```
 ## OUTPUT
-<img width="510" height="171" alt="image" src="https://github.com/user-attachments/assets/d766a492-5ea5-433e-a318-8c298de2dcb2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fdfb19b-aeb2-4961-ae0c-170bd6ac35d9" />
+
 
 ## RESULT
 The program was executed successfully
